@@ -14,7 +14,7 @@ SEEDS = 8
 SEEN_ITEMS = []
 
 class yts(object):
-	url = 'http://yts.ag'
+	url = 'http://yts.am'
 	name = 'YTS'
 	
 	def __init__(self):
